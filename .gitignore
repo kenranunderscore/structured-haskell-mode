@@ -1,5 +1,6 @@
 TAGS
 dist/
+dist-newstyle/
 .dir-locals.el
 *.elc
 .stack-work/
